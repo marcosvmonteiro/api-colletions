@@ -24,4 +24,5 @@ fun main() {
     for (valor in values.indices) {
         println(values[valor])
     }
+    println("_____________________")
 }//
